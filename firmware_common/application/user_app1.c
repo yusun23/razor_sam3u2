@@ -4,7 +4,7 @@
 should be replaced by something specific to the task.
 
 ----------------------------------------------------------------------------------------------------------------------
-TESTING ADDING THIS LINE AND DELETING THE LINE BELOW.
+T ESTING ADDING THIS LINE AND DELETING THE LINE BELOW.
 
  1. Copy both user_app1.c and user_app1.h to the Application directory
  2. Rename the files yournewtaskname.c and yournewtaskname.h
